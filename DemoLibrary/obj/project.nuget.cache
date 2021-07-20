@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fqsfRkXk3KwD0I5gx6h+4RVTaOPzHIsAlGjbIN3tHT+dFhdWeF1OSE+nkDIOMdRD2HwThpwXy11SAgwvGNxDDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

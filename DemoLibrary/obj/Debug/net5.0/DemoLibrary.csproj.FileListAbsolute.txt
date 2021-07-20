@@ -1,0 +1,11 @@
+C:\Users\Kristi\source\repos\BlazorUIDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.deps.json
+C:\Users\Kristi\source\repos\BlazorUIDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.dll
+C:\Users\Kristi\source\repos\BlazorUIDemo\DemoLibrary\bin\Debug\net5.0\ref\DemoLibrary.dll
+C:\Users\Kristi\source\repos\BlazorUIDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.pdb
+C:\Users\Kristi\source\repos\BlazorUIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristi\source\repos\BlazorUIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\Kristi\source\repos\BlazorUIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\Kristi\source\repos\BlazorUIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kristi\source\repos\BlazorUIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.dll
+C:\Users\Kristi\source\repos\BlazorUIDemo\DemoLibrary\obj\Debug\net5.0\ref\DemoLibrary.dll
+C:\Users\Kristi\source\repos\BlazorUIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.pdb
