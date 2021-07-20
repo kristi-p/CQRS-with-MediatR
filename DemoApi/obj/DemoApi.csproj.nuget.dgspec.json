@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoApi\\DemoApi.csproj": {}
+    "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoApi\\DemoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoApi\\DemoApi.csproj": {
+    "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoApi\\DemoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoApi\\DemoApi.csproj",
+        "projectUniqueName": "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoApi\\DemoApi.csproj",
         "projectName": "DemoApi",
-        "projectPath": "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoApi\\DemoApi.csproj",
+        "projectPath": "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoApi\\DemoApi.csproj",
         "packagesPath": "C:\\Users\\Kristi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoApi\\obj\\",
+        "outputPath": "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoLibrary\\DemoLibrary.csproj": {
-                "projectPath": "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoLibrary\\DemoLibrary.csproj"
+              "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoLibrary\\DemoLibrary.csproj": {
+                "projectPath": "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoLibrary\\DemoLibrary.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoLibrary\\DemoLibrary.csproj": {
+    "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoLibrary\\DemoLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoLibrary\\DemoLibrary.csproj",
+        "projectUniqueName": "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoLibrary\\DemoLibrary.csproj",
         "projectName": "DemoLibrary",
-        "projectPath": "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoLibrary\\DemoLibrary.csproj",
+        "projectPath": "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoLibrary\\DemoLibrary.csproj",
         "packagesPath": "C:\\Users\\Kristi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoLibrary\\obj\\",
+        "outputPath": "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJc9jB315R7fwPhppDbTJcbRqkaI9FyhARCB6GVWe2bVc1l9zYEA9ualP/A+wqJYZJUy5hirl8luiGe8EOUbHA==",
+  "dgSpecHash": "RDxiaH4E/8kD9D/yGJ4LJStLy5z9QK6G5EmalYHdUsTs25IYh0jS/ruZRlh6GaN9jVAfTlSGDixE4RniNBweKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoApi\\DemoApi.csproj",
+  "projectFilePath": "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoApi\\DemoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kristi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Kristi\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

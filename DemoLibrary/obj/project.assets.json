@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoLibrary\\DemoLibrary.csproj",
+      "projectUniqueName": "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoLibrary\\DemoLibrary.csproj",
       "projectName": "DemoLibrary",
-      "projectPath": "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoLibrary\\DemoLibrary.csproj",
+      "projectPath": "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoLibrary\\DemoLibrary.csproj",
       "packagesPath": "C:\\Users\\Kristi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristi\\source\\repos\\BlazorUIDemo\\DemoLibrary\\obj\\",
+      "outputPath": "C:\\Data\\.NetTutorials\\TCorey\\Implementing CQRS pattern with MediatR\\BlazorUIDemo\\CQRS-with-MediatR\\DemoLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
